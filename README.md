@@ -9,7 +9,7 @@ CSS_3
 
 ## Lancement du site en local
 
-Aller sur : http://index.html/
+Cloner le repository, lancer l'aperçu de index.html
 
 ## L'équipe
 
